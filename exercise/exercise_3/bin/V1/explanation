@@ -1,0 +1,8 @@
+- MT -> main Thread (is started of the Operative System).
+- The main is started of the 'main Thread'.
+- MT read/performs the instruction
+	- Print the current Thread.
+	- Started two threads 
+- Given that the Threads 'Pippo' and 'Ciao' was started in sequence, we can say what
+	they are concurrent threads. 
+- The thread that owns the resource, carries out his instruction.
